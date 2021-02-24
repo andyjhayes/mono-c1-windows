@@ -1,0 +1,16 @@
+{
+    "name": "Capture One",
+    "id": "com.phaseone.captureone",
+    "exe": ["captureone.exe"],
+    "category": ["photo"],
+    "bundle": [
+        "com.captureone.captureone14",
+        "com.captureone.captureone13",
+        "com.phaseone.captureone13",
+        "com.phaseone.captureone12",
+        "com.phaseone.captureone11",
+        "com.phaseone.captureone10",
+        "com.phaseone.captureone9"
+    ],
+    "connection": []
+}

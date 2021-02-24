@@ -1,0 +1,2838 @@
+{
+    "button": [
+        {
+            "name": "File.New Catalog",
+            "press": {
+                "key": "n",
+                "modifiers" : [
+                    "meta",
+                    "shift"
+                ]
+            }
+        },
+        {
+            "name": "File.New Session",
+            "press": {
+                "key": "n",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "File.Process",
+            "press": {
+                "key": "d",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "File.Decrement Counter",
+            "press": {
+                "key": "k",
+                "modifiers" : [
+                    "meta",
+                    "shift"
+                ]
+            }
+        },
+        {
+            "name": "Edit.Undo",
+            "press": {
+                "key": "z",
+                "modifiers": ["meta"]
+            }
+        },
+        {
+            "name": "Edit.Redo",
+            "press": {
+                "key": "z",
+                "modifiers": ["meta", "shift"]
+            }
+        },
+        {
+            "name": "Image.Edit All Selected",
+            "press": {
+                "key": "e",
+                "modifiers" : [
+                    "meta",
+                    "shift"
+                ]
+            }
+        },
+        {
+            "name": "Image.Rename",
+            "press": {
+                "key": "f2",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Image.New Variant",
+            "press": {
+                "key": "f7",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Image.Clone Variant",
+            "press": {
+                "key": "f8",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Image.Add to Selects Album",
+            "press": {
+                "key": "j",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Image.Delete (Trash)",
+            "press": {
+                "key": "delete",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Rating.0 Stars",
+            "press": {
+                "key": "0",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Rating.1 Star",
+            "press": {
+                "key": "1",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Rating.2 Stars",
+            "press": {
+                "key": "2",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Rating.3 Stars",
+            "press": {
+                "key": "3",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Rating.4 Stars",
+            "press": {
+                "key": "4",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Rating.5 Stars",
+            "press": {
+                "key": "5",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Color Tag.No Color",
+            "press": {
+                "key": "0",
+                "modifiers" : [
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Color Tag.Red",
+            "press": {
+                "key": "numpad_minus",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Color Tag.Orange",
+            "press": {
+                "key": "7",
+                "modifiers" : [
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Color Tag.Yellow",
+            "press": {
+                "key": "numpad_multiply",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Color Tag.Green",
+            "press": {
+                "key": "numpad_plus",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Adjustments.Color Tag.Blue",
+            "press": {
+                "key": "8",
+                "modifiers" : [
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Color Tag.Pink",
+            "press": {
+                "key": "9",
+                "modifiers" : [
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Color Tag.Purple",
+            "press": {
+                "key": "numpad_multiply",
+                "modifiers" : [
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Reset Adjustments",
+            "press": {
+                "key": "r",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Copy Adjustments",
+            "press": {
+                "key": "c",
+                "modifiers" : [
+                    "meta",
+                    "shift"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Paste Adjustments",
+            "press": {
+                "key": "v",
+                "modifiers" : [
+                    "meta",
+                    "shift"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Auto Adjust",
+            "press": {
+                "key": "l",
+                "modifiers" : [
+                	"meta"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Rotate Left 90°",
+            "press": {
+                "key": "l",
+                "modifiers" : [
+                	"meta",
+                	"alt"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Rotate Right 90°",
+            "press": {
+                "key": "r",
+                "modifiers" : [
+                	"meta",
+                	"alt"
+                ]
+            }
+        },
+        {
+            "name": "Adjustments.Reset Rotation",
+            "press": {
+                "key": ".",
+                "modifiers" : [
+                	"meta",
+                	"alt"
+                ]
+            }
+        },
+        {
+            "name": "Layer.Select Layer Above",
+            "press": {
+                "key": "pageup",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Layer.Select Layer Below",
+            "press": {
+                "key": "pagedown",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Layer.Select Background Layer",
+            "press": {
+                "key": "home",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Layer.Empty Adjustment Layer",
+            "press": {
+                "key": "pageup",
+                "modifiers" : [
+                	"alt"
+                ]
+            }
+        },
+        {
+            "name": "Layer.Filled Adjustment Layer",
+            "press": {
+                "key": "pageup",
+                "modifiers" : [
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Layer.New Clone Layer",
+            "press": {
+                "key": "pageup",
+                "modifiers" : [
+                	"meta",
+                	"alt"
+                ]
+            }
+        },
+        {
+            "name": "Layer.New Healing Layer",
+            "press": {
+                "key": "pageup",
+                "modifiers" : [
+                	"meta",
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Layer.Delete Layer",
+            "press": {
+                "key": "pagedown",
+                "modifiers" : [
+                	"alt"
+                ]
+            }
+        },
+        {
+            "name": "Layer.Toggle Layer On/Off",
+            "press": {
+                "key": "home",
+                "modifiers" : [
+                	"alt"
+                ]
+            }
+        },
+        {
+            "name": "Layer.Clear Mask",
+            "press": {
+                "key": "pageup",
+                "modifiers" : [
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Layer.Invert Mask",
+            "press": {
+                "key": "home",
+                "modifiers" : [
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Layer.Fill Mask",
+            "press": {
+                "key": "delete",
+                "modifiers" : [
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "Select.Select All",
+            "press": {
+                "key": "a",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Select.Deselect All",
+            "press": {
+                "key": "a",
+                "modifiers" : [
+                    "meta",
+                    "shift"
+                ]
+            }
+        },
+        {
+            "name": "Select.Invert Selection",
+            "press": {
+                "key": "i",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Select.First Photo",
+            "press": {
+                "key": "home",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Select.Previous Photo",
+            "press": {
+                "key": "left",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Select.Next Photo",
+            "press": {
+                "key": "right",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Select.Last Photo",
+            "press": {
+                "key": "end",
+                "modifiers" : [
+                    "meta"
+                ]
+            }
+        },
+        {
+            "name": "Select.Previous Set",
+            "press": {
+                "key": "left",
+                "modifiers" : [
+                    "alt"
+                ]
+            }
+        },
+        {
+            "name": "Select.Next Set",
+            "press": {
+                "key": "right",
+                "modifiers" : [
+                    "alt"
+                ]
+            }
+        },
+        {
+            "name": "Camera.Capture",
+            "press": {
+                "key": "k",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "View.Filter.Toggle 0 Star Filter",
+            "press": {
+                "key": "`",
+                "modifiers" : [
+                	"meta",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle 1 Star Filter",
+            "press": {
+                "key": "1",
+                "modifiers" : [
+                	"meta",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle 2 Star Filter",
+            "press": {
+                "key": "2",
+                "modifiers" : [
+                	"meta",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle 3 Star Filter",
+            "press": {
+                "key": "3",
+                "modifiers" : [
+                	"meta",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle 4 Star Filter",
+            "press": {
+                "key": "4",
+                "modifiers" : [
+                	"meta",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle 5 Star Filter",
+            "press": {
+                "key": "5",
+                "modifiers" : [
+                	"meta",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle No Color Filter",
+            "press": {
+                "key": "`",
+                "modifiers" : [
+                	"meta",
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle Red Filter",
+            "press": {
+                "key": "numpad_minus",
+                "modifiers" : [
+                	"meta",
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle Orange Filter",
+            "press": {
+                "key": "7",
+                "modifiers" : [
+                	"meta",
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle Yellow Filter",
+            "press": {
+                "key": "numpad_multiply",
+                "modifiers" : [
+                	"meta",
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle Green Filter",
+            "press": {
+                "key": "numpad_plus",
+                "modifiers" : [
+                	"meta",
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle Blue Filter",
+            "press": {
+                "key": "8",
+                "modifiers" : [
+                	"meta",
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle Pink Filter",
+            "press": {
+                "key": "9",
+                "modifiers" : [
+                	"meta",
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Filter.Toggle Purple Filter",
+            "press": {
+                "key": "numpad_multiply",
+                "modifiers" : [
+                	"alt",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Zoom.Zoom In",
+            "press": {
+                "key": "numpad_plus",
+                "modifiers" : [
+                	"meta"
+                ]
+            }
+        },
+        {
+            "name": "View.Zoom.Zoom Out",
+            "press": {
+                "key": "numpad_minus",
+                "modifiers" : [
+                	"meta"
+                ]
+            }
+        },
+        {
+            "name": "View.Zoom.Zoom To Fit",
+            "press": {
+                "key": ",",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "View.Zoom.Zoom To 100%",
+            "press": {
+                "key": ".",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "View.Exposure Warning",
+            "press": {
+                "key": "e",
+                "modifiers" : [
+                	"meta"
+                ]
+            }
+        },
+        {
+            "name": "View.Focus Mask",
+            "press": {
+                "key": "q",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "View.Overlay",
+            "press": {
+                "key": "o",
+                "modifiers" : [
+                	"meta",
+                	"shift"
+                ]
+            }
+        },
+        {
+            "name": "View.Annotations",
+            "press": {
+                "key": "j",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "View.Grid",
+            "press": {
+                "key": "g",
+                "modifiers" : [
+                	"meta"
+                ]
+            }
+        },
+        {
+            "name": "View.Viewer",
+            "press": {
+                "key": "g",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "View.Proof Margin",
+            "press": {
+                "key": "x",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "View.Toggle Browser Panel",
+            "press": {
+                "key": "b",
+                "modifiers" : [
+                	"meta"
+                ]
+            }
+        },
+        {
+            "name": "View.Toggle Tools Panel",
+            "press": {
+                "key": "t",
+                "modifiers" : [
+                	"meta"
+                ]
+            }
+        },
+        {
+            "name": "View.Toggle Full Screen",
+            "press": {
+                "key": "f",
+                "modifiers" : []
+            }
+        },
+        {
+            "name": "Cursor Tools.Select Tool",
+            "press": {
+                "key": "v",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Pan Tool",
+            "press": {
+                "key": "h",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Zoom Tool",
+            "press": {
+                "key": "z",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Crop Tool",
+            "press": {
+                "key": "c",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Straighten Tool",
+            "press": {
+                "key": "r",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Spot Removal Tool",
+            "press": {
+                "key": "o",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.White Balance Picker",
+            "press": {
+                "key": "w",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Normalize Color Picker",
+            "press": {
+                "key": "n",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Curve Point Picker",
+            "press": {
+                "key": "u",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Loupe Tool",
+            "press": {
+                "key": "p",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Keystone Tool",
+            "press": {
+                "key": "k",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Mask Brush",
+            "press": {
+                "key": "b",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Mask Eraser",
+            "press": {
+                "key": "e",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Linear Gradient",
+            "press": {
+                "key": "l",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Radial Gradient",
+            "press": {
+                "key": "t",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Draw Annotations",
+            "press": {
+                "key": "i",
+                "modifiers": []
+            }
+        },
+        {
+            "name": "Cursor Tools.Erase Annotations",
+            "press": {
+                "key": "y",
+                "modifiers": []
+            }
+        }
+    ],
+    "dial":[
+    	{
+          "name": "Brush.Brush Size",
+          "info": "Press to select the masking brush tool.",
+          "leftTurn": {
+                "key": "[",
+                "modifiers": [],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "]",
+                "modifiers": [],
+                "virtual": false
+            },
+            "press": {
+                "key": "b",
+                "modifiers": [],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Brush.Brush Hardness",
+          "info": "Press to select the masking brush tool.",
+          "leftTurn": {
+                "key": "[",
+                "modifiers": [
+                	"shift"
+                ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "]",
+                "modifiers": [
+                	"shift"
+                ],
+                "virtual": false
+            },
+            "press": {
+                "key": "b",
+                "modifiers": [],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Brush.Brush Opacity",
+          "info": "Press to select the masking brush tool.",
+          "leftTurn": {
+                "key": "[",
+                "modifiers": [
+                	"alt",
+                	"shift"
+                ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "]",
+                "modifiers": [
+                	"alt",
+                	"shift"
+                ],
+                "virtual": false
+            },
+            "press": {
+                "key": "b",
+                "modifiers": [],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Brush.Brush Flow",
+          "info": "Press to select the masking brush tool.",
+          "leftTurn": {
+                "key": "[",
+                "modifiers": [
+                	"meta",
+                	"alt",
+                	"shift"
+                ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "]",
+                "modifiers": [
+                	"meta",
+                	"alt",
+                	"shift"
+                ],
+                "virtual": false
+            },
+            "press": {
+                "key": "b",
+                "modifiers": [],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Layer.Select Layer",
+          "info": "Press to select the background layer.",
+          "leftTurn": {
+                "key": "pageup",
+                "modifiers": [],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "pagedown",
+                "modifiers": [],
+                "virtual": false
+            },
+            "press": {
+                "key": "home",
+                "modifiers": [],
+                "virtual": false
+            },
+            "sensitivity": 5
+        },
+        {
+          "name": "Layer.Layer Opacity",
+          "info": "Press to toggle the active layer on/off.",
+          "leftTurn": {
+                "key": "9",
+                "modifiers": [
+                	"alt",
+                	"shift"
+                ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "0",
+                "modifiers": [
+                	"alt",
+                	"shift"
+                ],
+                "virtual": false
+            },
+            "press": {
+                "key": "home",
+                "modifiers": [
+                	"alt"
+                ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "White Balance.Kelvin",
+          "leftTurn": {
+                "key": "numpad_minus",
+                "modifiers": [
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_plus",
+                "modifiers": [
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "White Balance.Tint",
+          "leftTurn": {
+                "key": "numpad_minus",
+                "modifiers": [
+                    "shift",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_plus",
+                "modifiers": [
+                    "shift",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Shadows.Shadow Hue",
+          "leftTurn": {
+                "key": "numpad_1",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_7",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Shadows.Shadow Saturation",
+          "leftTurn": {
+                "key": "numpad_1",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_7",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Shadows.Shadow Lightness",
+          "leftTurn": {
+                "key": "numpad_1",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_7",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Midtones.Midtone Hue",
+          "leftTurn": {
+                "key": "numpad_2",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_8",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Midtones.Midtone Saturation",
+          "leftTurn": {
+                "key": "numpad_2",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_8",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Midtones.Midtone Lightness",
+          "leftTurn": {
+                "key": "numpad_2",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_8",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Highlights.Highlight Hue",
+          "leftTurn": {
+                "key": "numpad_3",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_9",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Highlights.Highlight Saturation",
+          "leftTurn": {
+                "key": "numpad_3",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_9",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Highlights.Highlight Lightness",
+          "leftTurn": {
+                "key": "numpad_3",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_9",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Master.Master Hue",
+          "leftTurn": {
+                "key": "numpad_divide",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_multiply",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Master.Master Saturation",
+          "leftTurn": {
+                "key": "numpad_divide",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_multiply",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Exposure.Exposure",
+          "leftTurn": {
+                "key": "numpad_minus",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_plus",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Exposure.Contrast",
+          "leftTurn": {
+                "key": "9",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "0",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Exposure.Brightness",
+          "leftTurn": {
+                "key": "o",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "p",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 7
+        },
+        {
+          "name": "Exposure.Saturation",
+          "leftTurn": {
+                "key": "numpad_minus",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_plus",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 8
+        },
+        {
+          "name": "High Dynamic Range.Shadow Recovery",
+          "leftTurn": {
+                "key": "7",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "8",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 7
+        },
+        {
+          "name": "High Dynamic Range.Highlight Recovery",
+          "leftTurn": {
+                "key": "5",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "6",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 7
+        },
+        {
+          "name": "High Dynamic Range.White Recovery",
+          "leftTurn": {
+                "key": "3",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "4",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 7
+        },
+        {
+          "name": "High Dynamic Range.Black Recovery",
+          "leftTurn": {
+                "key": "1",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "2",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 7
+        },
+        {
+          "name": "Levels.RGB Shadows",
+          "leftTurn": {
+                "key": "o",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "p",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 8
+        },
+        {
+          "name": "Levels.RGB Midtones",
+          "leftTurn": {
+                "key": "1",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "2",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 7
+        },
+        {
+          "name": "Levels.RGB Highlights",
+          "leftTurn": {
+                "key": "u",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "i",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 8
+        },
+        {
+          "name": "Levels.Target Shadows",
+          "leftTurn": {
+                "key": "o",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "p",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 8
+        },
+        {
+          "name": "Levels.Target Highlights",
+          "leftTurn": {
+                "key": "u",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "i",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "sensitivity": 8
+        },
+        {
+          "name": "Clarity.Clarity",
+          "leftTurn": {
+                "key": "9",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "0",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Clarity.Structure",
+          "leftTurn": {
+                "key": "7",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "8",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Sharpening.Sharpening Amount",
+          "leftTurn": {
+                "key": "e",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "r",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Sharpening.Sharpening Radius",
+          "leftTurn": {
+                "key": "e",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "r",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Sharpening.Sharpening Threshold",
+          "leftTurn": {
+                "key": "o",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "p",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Sharpening.Halo Control",
+          "leftTurn": {
+                "key": "u",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "i",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Noise Reduction.Luminance Noise Reduction",
+          "leftTurn": {
+                "key": "j",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "k",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Noise Reduction.Color Noise Reduction",
+          "leftTurn": {
+                "key": "j",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "k",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Noise Reduction.Single Pixel Noise Reduction",
+          "leftTurn": {
+                "key": "n",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "m",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Noise Reduction.Noise Reduction Detail",
+          "leftTurn": {
+                "key": "n",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "m",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Vignetting.Vignette Amount",
+          "leftTurn": {
+                "key": "3",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "4",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Film Grain.Grain Amount",
+          "leftTurn": {
+                "key": "1",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "2",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Film Grain.Granularity",
+          "leftTurn": {
+                "key": "1",
+                "modifiers": [
+                	"alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "2",
+                "modifiers": [
+                	"alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Keystone.Vertical Keystone",
+          "leftTurn": {
+                "key": "down",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "up",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Keystone.Horizontal Keystone",
+          "leftTurn": {
+                "key": "left",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "right",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Keystone.Keystone Amount",
+          "leftTurn": {
+                "key": "down",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "up",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Keystone.Keystone Aspect",
+          "leftTurn": {
+                "key": "left",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "right",
+                "modifiers": [
+                	"meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Rotation & Flip.Rotation Angle",
+          "info": "Press to reset.",
+          "leftTurn": {
+                "key": "5",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "6",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "press": {
+            	"key": ".",
+            	"modifiers": [
+            		"meta",
+            		"alt"
+            	]
+            },
+            "sensitivity": 7
+        },
+        {
+          "name": "Rotation & Flip.Rotate 90°",
+          "info": "Press to reset to 0°.",
+          "leftTurn": {
+                "key": "l",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "r",
+                "modifiers": [
+                	"meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "press": {
+            	"key": ".",
+            	"modifiers": [
+            		"meta",
+            		"alt"
+            	]
+            },
+            "sensitivity": 5
+        }
+    ],
+	"orbiter": [
+		{
+			"name": "Adjust Any Value",
+			"info": "Hover over any slider or numeric value with your cursor, then turn the Orbiter ring to adjust incrementally.\n\nRequires the following preference in Ver. 20:\nPreferences > General > Tool Tabs > Select \"Scroll wheel changes slider value\"",
+			"turn": {
+				"scroll": "vertical",
+				"step": 1,
+				"virtual": false
+			},
+			"turnSensitivity": 9
+		},
+        {
+          "name": "Brush.Brush Size",
+          "leftTurn": {
+                "key": "[",
+                "modifiers": [],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "]",
+                "modifiers": [],
+                "virtual": false
+            },
+            "turnSensitivity": 8
+        },
+        {
+          "name": "Brush.Brush Hardness",
+          "leftTurn": {
+                "key": "[",
+                "modifiers": [
+                    "shift"
+                ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "]",
+                "modifiers": [
+                    "shift"
+                ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Brush.Brush Opacity",
+          "leftTurn": {
+                "key": "[",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "]",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Brush.Brush Flow",
+          "leftTurn": {
+                "key": "[",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "]",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Layer.Layer Opacity",
+          "leftTurn": {
+                "key": "9",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "0",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Layer.Select Layer",
+          "leftTurn": {
+                "key": "pageup",
+                "modifiers": [],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "pagedown",
+                "modifiers": [],
+                "virtual": false
+            },
+            "turnSensitivity": 5
+        },
+        {
+          "name": "White Balance.Kelvin",
+          "leftTurn": {
+                "key": "numpad_minus",
+                "modifiers": [
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_plus",
+                "modifiers": [
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "White Balance.Tint",
+          "leftTurn": {
+                "key": "numpad_minus",
+                "modifiers": [
+                    "shift",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_plus",
+                "modifiers": [
+                    "shift",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Shadows.Shadow Hue",
+          "leftTurn": {
+                "key": "numpad_1",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_7",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Shadows.Shadow Saturation",
+          "leftTurn": {
+                "key": "numpad_1",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_7",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Shadows.Shadow Lightness",
+          "leftTurn": {
+                "key": "numpad_1",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_7",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Midtones.Midtone Hue",
+          "leftTurn": {
+                "key": "numpad_2",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_8",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Midtones.Midtone Saturation",
+          "leftTurn": {
+                "key": "numpad_2",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_8",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Midtones.Midtone Lightness",
+          "leftTurn": {
+                "key": "numpad_2",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_8",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Highlights.Highlight Hue",
+          "leftTurn": {
+                "key": "numpad_3",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_9",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Highlights.Highlight Saturation",
+          "leftTurn": {
+                "key": "numpad_3",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_9",
+                "modifiers": [
+                    "meta"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Highlights.Highlight Lightness",
+          "leftTurn": {
+                "key": "numpad_3",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_9",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Master.Master Hue",
+          "leftTurn": {
+                "key": "numpad_divide",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_multiply",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Color Balance.Master.Master Saturation",
+          "leftTurn": {
+                "key": "numpad_divide",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_multiply",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Exposure.Exposure",
+          "leftTurn": {
+                "key": "numpad_minus",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_plus",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Exposure.Contrast",
+          "leftTurn": {
+                "key": "9",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "0",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Exposure.Brightness",
+          "leftTurn": {
+                "key": "o",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "p",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 7
+        },
+        {
+          "name": "Exposure.Saturation",
+          "leftTurn": {
+                "key": "numpad_minus",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "numpad_plus",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 8
+        },
+        {
+          "name": "High Dynamic Range.Shadow Recovery",
+          "leftTurn": {
+                "key": "7",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "8",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 7
+        },
+        {
+          "name": "High Dynamic Range.Highlight Recovery",
+          "leftTurn": {
+                "key": "5",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "6",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 7
+        },
+        {
+          "name": "High Dynamic Range.White Recovery",
+          "leftTurn": {
+                "key": "3",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "4",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 7
+        },
+        {
+          "name": "High Dynamic Range.Black Recovery",
+          "leftTurn": {
+                "key": "1",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "2",
+                "modifiers": [
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 7
+        },
+        {
+          "name": "Levels.RGB Shadows",
+          "leftTurn": {
+                "key": "o",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "p",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 8
+        },
+        {
+          "name": "Levels.RGB Midtones",
+          "leftTurn": {
+                "key": "1",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "2",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 7
+        },
+        {
+          "name": "Levels.RGB Highlights",
+          "leftTurn": {
+                "key": "u",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "i",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 8
+        },
+        {
+          "name": "Levels.Target Shadows",
+          "leftTurn": {
+                "key": "o",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "p",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 8
+        },
+        {
+          "name": "Levels.Target Highlights",
+          "leftTurn": {
+                "key": "u",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "i",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 8
+        },
+        {
+          "name": "Clarity.Clarity",
+          "leftTurn": {
+                "key": "9",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "0",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Clarity.Structure",
+          "leftTurn": {
+                "key": "7",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "8",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Sharpening.Sharpening Amount",
+          "leftTurn": {
+                "key": "e",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "r",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Sharpening.Sharpening Radius",
+          "leftTurn": {
+                "key": "e",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "r",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Sharpening.Sharpening Threshold",
+          "leftTurn": {
+                "key": "o",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "p",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Sharpening.Halo Control",
+          "leftTurn": {
+                "key": "u",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "i",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Noise Reduction.Luminance Noise Reduction",
+          "leftTurn": {
+                "key": "j",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "k",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Noise Reduction.Color Noise Reduction",
+          "leftTurn": {
+                "key": "j",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "k",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Noise Reduction.Single Pixel Noise Reduction",
+          "leftTurn": {
+                "key": "n",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "m",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Noise Reduction.Noise Reduction Detail",
+          "leftTurn": {
+                "key": "n",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "m",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Vignetting.Vignette Amount",
+          "leftTurn": {
+                "key": "3",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "4",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Film Grain.Grain Amount",
+          "leftTurn": {
+                "key": "1",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "2",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Film Grain.Granularity",
+          "leftTurn": {
+                "key": "1",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "2",
+                "modifiers": [
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Keystone.Vertical Keystone",
+          "leftTurn": {
+                "key": "down",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "up",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Keystone.Horizontal Keystone",
+          "leftTurn": {
+                "key": "left",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "right",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Keystone.Keystone Amount",
+          "leftTurn": {
+                "key": "down",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "up",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Keystone.Keystone Aspect",
+          "leftTurn": {
+                "key": "left",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "right",
+                "modifiers": [
+                    "meta",
+                    "alt",
+                    "shift"
+                    ],
+                "virtual": false
+            }
+        },
+        {
+          "name": "Rotation & Flip.Rotation Angle",
+          "leftTurn": {
+                "key": "5",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "6",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 7
+        },
+        {
+          "name": "Rotation & Flip.Rotate 90°",
+          "leftTurn": {
+                "key": "l",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "r",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                    ],
+                "virtual": false
+            },
+            "turnSensitivity": 5
+        }
+    ]
+}
