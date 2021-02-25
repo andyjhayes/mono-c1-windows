@@ -9,7 +9,7 @@ This is a collection of Monogram and Palette Gear module presets for Capture One
 - [Monogram Creative Console (recommended) or Palette Gear](https://monogramcc.com/)
 - [Capture One](https://captureone.com/) (Version 9.3 or later required, 21 recommended)
 
-### Known Issues ###
+### Known Limitations ###
 
 - No assignments available or possible for slider modules (inherent incompatibility)
 - No assignments available or possible for Orbiter disc (inherent incompatibility)
