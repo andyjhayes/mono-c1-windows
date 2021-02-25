@@ -1876,6 +1876,38 @@
 			},
 			"turnSensitivity": 9
 		},
+		{
+            "name": "selectPhoto",
+            "label": "Select Photo",
+            "info": "Turn = Select photo<br>Tilt is unassigned",
+            "leftTurn": {
+                "key": "left",
+                "modifiers": [],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "right",
+                "modifiers": [],
+                "virtual": false
+            },
+            "turnSensitivity": 5
+        },
+        {
+            "name": "speedEdit",
+            "label": "Speed Edit",
+            "info": "Hold any one of the Speed Edit keys (ex. Q for Exposure), then turn the ring in order to make adjustments.<br>Capture One 21 or later required.<br><br>Turn = Select photo<br>Tilt is unassigned",
+            "leftTurn": {
+                "key": "down",
+                "modifiers": [],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "up",
+                "modifiers": [],
+                "virtual": false
+            },
+            "turnSensitivity": 5
+        },
         {
           "name": "Brush.Brush Size",
           "leftTurn": {
