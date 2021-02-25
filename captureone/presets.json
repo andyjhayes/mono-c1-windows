@@ -1894,7 +1894,7 @@
         {
             "name": "speedEdit",
             "label": "Speed Edit",
-            "info": "Hold any one of the Speed Edit keys (ex. Q for Exposure), then turn the ring in order to make adjustments.<br><br>Capture One 21 or later required.<br><br>Turn = Select photo<br>Tilt is unassigned",
+            "info": "Hold any one of the Speed Edit keys (ex. Q for Exposure), then turn the ring in order to make adjustments.\n\nCapture One 21 or later required.",
             "leftTurn": {
                 "key": "down",
                 "modifiers": [],
