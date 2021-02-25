@@ -148,7 +148,7 @@
             "press": {
                 "key": "0",
                 "modifiers" : [
-                	"shift"
+                    "shift"
                 ]
             }
         },
@@ -164,7 +164,7 @@
             "press": {
                 "key": "7",
                 "modifiers" : [
-                	"shift"
+                    "shift"
                 ]
             }
         },
@@ -187,7 +187,7 @@
             "press": {
                 "key": "8",
                 "modifiers" : [
-                	"shift"
+                    "shift"
                 ]
             }
         },
@@ -196,7 +196,7 @@
             "press": {
                 "key": "9",
                 "modifiers" : [
-                	"shift"
+                    "shift"
                 ]
             }
         },
@@ -205,7 +205,7 @@
             "press": {
                 "key": "numpad_multiply",
                 "modifiers" : [
-                	"shift"
+                    "shift"
                 ]
             }
         },
@@ -243,7 +243,7 @@
             "press": {
                 "key": "l",
                 "modifiers" : [
-                	"meta"
+                    "meta"
                 ]
             }
         },
@@ -252,8 +252,8 @@
             "press": {
                 "key": "l",
                 "modifiers" : [
-                	"meta",
-                	"alt"
+                    "meta",
+                    "alt"
                 ]
             }
         },
@@ -262,8 +262,8 @@
             "press": {
                 "key": "r",
                 "modifiers" : [
-                	"meta",
-                	"alt"
+                    "meta",
+                    "alt"
                 ]
             }
         },
@@ -272,8 +272,8 @@
             "press": {
                 "key": ".",
                 "modifiers" : [
-                	"meta",
-                	"alt"
+                    "meta",
+                    "alt"
                 ]
             }
         },
@@ -303,7 +303,7 @@
             "press": {
                 "key": "pageup",
                 "modifiers" : [
-                	"alt"
+                    "alt"
                 ]
             }
         },
@@ -312,8 +312,8 @@
             "press": {
                 "key": "pageup",
                 "modifiers" : [
-                	"alt",
-                	"shift"
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -322,8 +322,8 @@
             "press": {
                 "key": "pageup",
                 "modifiers" : [
-                	"meta",
-                	"alt"
+                    "meta",
+                    "alt"
                 ]
             }
         },
@@ -332,9 +332,9 @@
             "press": {
                 "key": "pageup",
                 "modifiers" : [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -343,7 +343,7 @@
             "press": {
                 "key": "pagedown",
                 "modifiers" : [
-                	"alt"
+                    "alt"
                 ]
             }
         },
@@ -352,7 +352,7 @@
             "press": {
                 "key": "home",
                 "modifiers" : [
-                	"alt"
+                    "alt"
                 ]
             }
         },
@@ -361,7 +361,7 @@
             "press": {
                 "key": "pageup",
                 "modifiers" : [
-                	"shift"
+                    "shift"
                 ]
             }
         },
@@ -370,7 +370,7 @@
             "press": {
                 "key": "home",
                 "modifiers" : [
-                	"shift"
+                    "shift"
                 ]
             }
         },
@@ -379,7 +379,7 @@
             "press": {
                 "key": "delete",
                 "modifiers" : [
-                	"shift"
+                    "shift"
                 ]
             }
         },
@@ -477,8 +477,8 @@
             "press": {
                 "key": "`",
                 "modifiers" : [
-                	"meta",
-                	"shift"
+                    "meta",
+                    "shift"
                 ]
             }
         },
@@ -487,8 +487,8 @@
             "press": {
                 "key": "1",
                 "modifiers" : [
-                	"meta",
-                	"shift"
+                    "meta",
+                    "shift"
                 ]
             }
         },
@@ -497,8 +497,8 @@
             "press": {
                 "key": "2",
                 "modifiers" : [
-                	"meta",
-                	"shift"
+                    "meta",
+                    "shift"
                 ]
             }
         },
@@ -507,8 +507,8 @@
             "press": {
                 "key": "3",
                 "modifiers" : [
-                	"meta",
-                	"shift"
+                    "meta",
+                    "shift"
                 ]
             }
         },
@@ -517,8 +517,8 @@
             "press": {
                 "key": "4",
                 "modifiers" : [
-                	"meta",
-                	"shift"
+                    "meta",
+                    "shift"
                 ]
             }
         },
@@ -527,8 +527,8 @@
             "press": {
                 "key": "5",
                 "modifiers" : [
-                	"meta",
-                	"shift"
+                    "meta",
+                    "shift"
                 ]
             }
         },
@@ -537,9 +537,9 @@
             "press": {
                 "key": "`",
                 "modifiers" : [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -548,9 +548,9 @@
             "press": {
                 "key": "numpad_minus",
                 "modifiers" : [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -559,9 +559,9 @@
             "press": {
                 "key": "7",
                 "modifiers" : [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -570,9 +570,9 @@
             "press": {
                 "key": "numpad_multiply",
                 "modifiers" : [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -581,9 +581,9 @@
             "press": {
                 "key": "numpad_plus",
                 "modifiers" : [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -592,9 +592,9 @@
             "press": {
                 "key": "8",
                 "modifiers" : [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -603,9 +603,9 @@
             "press": {
                 "key": "9",
                 "modifiers" : [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -614,8 +614,8 @@
             "press": {
                 "key": "numpad_multiply",
                 "modifiers" : [
-                	"alt",
-                	"shift"
+                    "alt",
+                    "shift"
                 ]
             }
         },
@@ -624,7 +624,7 @@
             "press": {
                 "key": "numpad_plus",
                 "modifiers" : [
-                	"meta"
+                    "meta"
                 ]
             }
         },
@@ -633,7 +633,7 @@
             "press": {
                 "key": "numpad_minus",
                 "modifiers" : [
-                	"meta"
+                    "meta"
                 ]
             }
         },
@@ -656,7 +656,7 @@
             "press": {
                 "key": "e",
                 "modifiers" : [
-                	"meta"
+                    "meta"
                 ]
             }
         },
@@ -672,8 +672,8 @@
             "press": {
                 "key": "o",
                 "modifiers" : [
-                	"meta",
-                	"shift"
+                    "meta",
+                    "shift"
                 ]
             }
         },
@@ -689,7 +689,7 @@
             "press": {
                 "key": "g",
                 "modifiers" : [
-                	"meta"
+                    "meta"
                 ]
             }
         },
@@ -712,7 +712,7 @@
             "press": {
                 "key": "b",
                 "modifiers" : [
-                	"meta"
+                    "meta"
                 ]
             }
         },
@@ -721,7 +721,7 @@
             "press": {
                 "key": "t",
                 "modifiers" : [
-                	"meta"
+                    "meta"
                 ]
             }
         },
@@ -853,7 +853,7 @@
         }
     ],
     "dial":[
-    	{
+        {
           "name": "Brush.Brush Size",
           "info": "Press to select the masking brush tool.",
           "leftTurn": {
@@ -878,14 +878,14 @@
           "leftTurn": {
                 "key": "[",
                 "modifiers": [
-                	"shift"
+                    "shift"
                 ],
                 "virtual": false
             },
             "rightTurn": {
                 "key": "]",
                 "modifiers": [
-                	"shift"
+                    "shift"
                 ],
                 "virtual": false
             },
@@ -901,16 +901,16 @@
           "leftTurn": {
                 "key": "[",
                 "modifiers": [
-                	"alt",
-                	"shift"
+                    "alt",
+                    "shift"
                 ],
                 "virtual": false
             },
             "rightTurn": {
                 "key": "]",
                 "modifiers": [
-                	"alt",
-                	"shift"
+                    "alt",
+                    "shift"
                 ],
                 "virtual": false
             },
@@ -926,18 +926,18 @@
           "leftTurn": {
                 "key": "[",
                 "modifiers": [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ],
                 "virtual": false
             },
             "rightTurn": {
                 "key": "]",
                 "modifiers": [
-                	"meta",
-                	"alt",
-                	"shift"
+                    "meta",
+                    "alt",
+                    "shift"
                 ],
                 "virtual": false
             },
@@ -973,23 +973,23 @@
           "leftTurn": {
                 "key": "9",
                 "modifiers": [
-                	"alt",
-                	"shift"
+                    "alt",
+                    "shift"
                 ],
                 "virtual": false
             },
             "rightTurn": {
                 "key": "0",
                 "modifiers": [
-                	"alt",
-                	"shift"
+                    "alt",
+                    "shift"
                 ],
                 "virtual": false
             },
             "press": {
                 "key": "home",
                 "modifiers": [
-                	"alt"
+                    "alt"
                 ],
                 "virtual": false
             }
@@ -1282,7 +1282,7 @@
           "leftTurn": {
                 "key": "numpad_minus",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1374,7 +1374,7 @@
           "leftTurn": {
                 "key": "o",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1382,7 +1382,7 @@
             "rightTurn": {
                 "key": "p",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1394,7 +1394,7 @@
           "leftTurn": {
                 "key": "1",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1402,7 +1402,7 @@
             "rightTurn": {
                 "key": "2",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1414,7 +1414,7 @@
           "leftTurn": {
                 "key": "u",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1422,7 +1422,7 @@
             "rightTurn": {
                 "key": "i",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1434,7 +1434,7 @@
           "leftTurn": {
                 "key": "o",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1443,7 +1443,7 @@
             "rightTurn": {
                 "key": "p",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1456,7 +1456,7 @@
           "leftTurn": {
                 "key": "u",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1465,7 +1465,7 @@
             "rightTurn": {
                 "key": "i",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1478,7 +1478,7 @@
           "leftTurn": {
                 "key": "9",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1486,7 +1486,7 @@
             "rightTurn": {
                 "key": "0",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1497,7 +1497,7 @@
           "leftTurn": {
                 "key": "7",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1505,7 +1505,7 @@
             "rightTurn": {
                 "key": "8",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1516,7 +1516,7 @@
           "leftTurn": {
                 "key": "e",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1525,7 +1525,7 @@
             "rightTurn": {
                 "key": "r",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1594,7 +1594,7 @@
           "leftTurn": {
                 "key": "j",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1603,7 +1603,7 @@
             "rightTurn": {
                 "key": "k",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1653,7 +1653,7 @@
           "leftTurn": {
                 "key": "n",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1662,7 +1662,7 @@
             "rightTurn": {
                 "key": "m",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1674,7 +1674,7 @@
           "leftTurn": {
                 "key": "3",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1682,7 +1682,7 @@
             "rightTurn": {
                 "key": "4",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1693,7 +1693,7 @@
           "leftTurn": {
                 "key": "1",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1702,7 +1702,7 @@
             "rightTurn": {
                 "key": "2",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1714,7 +1714,7 @@
           "leftTurn": {
                 "key": "1",
                 "modifiers": [
-                	"alt",
+                    "alt",
                     "shift"
                     ],
                 "virtual": false
@@ -1722,7 +1722,7 @@
             "rightTurn": {
                 "key": "2",
                 "modifiers": [
-                	"alt",
+                    "alt",
                     "shift"
                     ],
                 "virtual": false
@@ -1733,7 +1733,7 @@
           "leftTurn": {
                 "key": "down",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1741,7 +1741,7 @@
             "rightTurn": {
                 "key": "up",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1752,7 +1752,7 @@
           "leftTurn": {
                 "key": "left",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1760,7 +1760,7 @@
             "rightTurn": {
                 "key": "right",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1771,7 +1771,7 @@
           "leftTurn": {
                 "key": "down",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1780,7 +1780,7 @@
             "rightTurn": {
                 "key": "up",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1792,7 +1792,7 @@
           "leftTurn": {
                 "key": "left",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1801,7 +1801,7 @@
             "rightTurn": {
                 "key": "right",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt",
                     "shift"
                     ],
@@ -1814,7 +1814,7 @@
           "leftTurn": {
                 "key": "5",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1822,17 +1822,17 @@
             "rightTurn": {
                 "key": "6",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
             },
             "press": {
-            	"key": ".",
-            	"modifiers": [
-            		"meta",
-            		"alt"
-            	]
+                "key": ".",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                ]
             },
             "sensitivity": 7
         },
@@ -1842,7 +1842,7 @@
           "leftTurn": {
                 "key": "l",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
@@ -1850,36 +1850,35 @@
             "rightTurn": {
                 "key": "r",
                 "modifiers": [
-                	"meta",
+                    "meta",
                     "alt"
                     ],
                 "virtual": false
             },
             "press": {
-            	"key": ".",
-            	"modifiers": [
-            		"meta",
-            		"alt"
-            	]
+                "key": ".",
+                "modifiers": [
+                    "meta",
+                    "alt"
+                ]
             },
             "sensitivity": 5
         }
     ],
-	"orbiter": [
-		{
-			"name": "Adjust Any Value",
-			"info": "Hover over any slider or numeric value with your cursor, then turn the Orbiter ring to adjust incrementally.\n\nRequires the following preference in Ver. 20:\nPreferences > General > Tool Tabs > Select \"Scroll wheel changes slider value\"",
-			"turn": {
-				"scroll": "vertical",
-				"step": 1,
-				"virtual": false
-			},
-			"turnSensitivity": 9
-		},
-		{
+    "orbiter": [
+        {
+            "name": "Adjust Any Value",
+            "info": "Hover over any slider or numeric value with your cursor, then turn the Orbiter ring to adjust incrementally.\n\nRequires the following preference in Ver. 20:\nPreferences > General > Tool Tabs > Select \"Scroll wheel changes slider value\"",
+            "turn": {
+                "scroll": "vertical",
+                "step": 1,
+                "virtual": false
+            },
+            "turnSensitivity": 9
+        },
+        {
             "name": "selectPhoto",
             "label": "Select Photo",
-            "info": "Turn = Select photo<br>Tilt is unassigned",
             "leftTurn": {
                 "key": "left",
                 "modifiers": [],
@@ -1895,7 +1894,7 @@
         {
             "name": "speedEdit",
             "label": "Speed Edit",
-            "info": "Hold any one of the Speed Edit keys (ex. Q for Exposure), then turn the ring in order to make adjustments.<br>Capture One 21 or later required.<br><br>Turn = Select photo<br>Tilt is unassigned",
+            "info": "Hold any one of the Speed Edit keys (ex. Q for Exposure), then turn the ring in order to make adjustments.<br><br>Capture One 21 or later required.<br><br>Turn = Select photo<br>Tilt is unassigned",
             "leftTurn": {
                 "key": "down",
                 "modifiers": [],
@@ -1906,7 +1905,7 @@
                 "modifiers": [],
                 "virtual": false
             },
-            "turnSensitivity": 5
+            "turnSensitivity": 9
         },
         {
           "name": "Brush.Brush Size",
