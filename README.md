@@ -21,7 +21,7 @@ This is a collection of Monogram and Palette Gear module presets for Capture One
 
 ### Add keymap to Capture One ###
 
-1. Download and unzip latest release; copy the unzipped folder to a safe location like your Documents folder.
+1. Download and unzip latest release (select Download Code at top right); copy the unzipped folder to a safe location like your Documents folder.
 2. Locate <code>Keymaps > Monogram EN-US.xml</code> inside downloaded package.
 3. In Windows File Explorer, go to <code>\%localappdata%\CaptureOne\CustomCommands\\</code>. (Tip: Paste this directory into the File Explorer path bar or the taskbar search)
 4. Move <code>Monogram EN-US.xml</code> to inside the CustomCommands folder.
