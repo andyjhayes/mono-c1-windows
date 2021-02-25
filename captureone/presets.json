@@ -854,6 +854,47 @@
     ],
     "dial":[
         {
+            "name": "Adjust Any Value",
+            "info": "Hover over any slider or numeric value with your cursor, then turn to adjust incrementally.\n\nRequires the following preference in Ver. 20:\nPreferences > General > Tool Tabs > Select \"Scroll wheel changes slider value\"",
+            "turn": {
+                "scroll": "vertical",
+                "step": 1,
+                "virtual": false
+            },
+            "sensitivity": 9
+        },
+        {
+            "name": "selectPhoto",
+            "label": "Select Photo",
+            "leftTurn": {
+                "key": "left",
+                "modifiers": [],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "right",
+                "modifiers": [],
+                "virtual": false
+            },
+            "sensitivity": 5
+        },
+        {
+            "name": "speedEdit",
+            "label": "Speed Edit",
+            "info": "Hold any one of the Speed Edit keys (ex. Q for Exposure), then turn in order to make adjustments.\n\nCapture One 21 or later required.",
+            "leftTurn": {
+                "key": "down",
+                "modifiers": [],
+                "virtual": false
+            },
+            "rightTurn": {
+                "key": "up",
+                "modifiers": [],
+                "virtual": false
+            },
+            "sensitivity": 9
+        },
+        {
           "name": "Brush.Brush Size",
           "info": "Press to select the masking brush tool.",
           "leftTurn": {
@@ -1868,7 +1909,7 @@
     "orbiter": [
         {
             "name": "Adjust Any Value",
-            "info": "Hover over any slider or numeric value with your cursor, then turn the Orbiter ring to adjust incrementally.\n\nRequires the following preference in Ver. 20:\nPreferences > General > Tool Tabs > Select \"Scroll wheel changes slider value\"",
+            "info": "Hover over any slider or numeric value with your cursor, then turn to adjust incrementally.\n\nRequires the following preference in Ver. 20:\nPreferences > General > Tool Tabs > Select \"Scroll wheel changes slider value\"",
             "turn": {
                 "scroll": "vertical",
                 "step": 1,
@@ -1894,7 +1935,7 @@
         {
             "name": "speedEdit",
             "label": "Speed Edit",
-            "info": "Hold any one of the Speed Edit keys (ex. Q for Exposure), then turn the ring in order to make adjustments.\n\nCapture One 21 or later required.",
+            "info": "Hold any one of the Speed Edit keys (ex. Q for Exposure), then turn in order to make adjustments.\n\nCapture One 21 or later required.",
             "leftTurn": {
                 "key": "down",
                 "modifiers": [],
