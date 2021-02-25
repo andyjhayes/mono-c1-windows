@@ -40,3 +40,12 @@ Recommended: 240px square .png
 4. Select the <code>captureone</code> without opening it, then hit "Select Folder" (bottom right).
 
 ---
+
+## Disclaimers ##
+
+This is purely a homebrewed set of Monogram presets for Capture One. A few things to keep in mind:
+
+- It isn't developed or endorsed by either company. 
+- It's provided with no warranty and it may not work on your system.
+- Future Capture One or Monogram updates might break this.
+- It's licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a>. Pull requests and issues are welcome :)
