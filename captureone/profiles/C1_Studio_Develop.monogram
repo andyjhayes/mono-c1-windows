@@ -280,11 +280,9 @@
         "orbiter":[
             {
                 "fixedPosition":true,
-                "submodules":{
-                    
-                },
                 "settings":{
                     "color":"#0000ff",
+                    "label": "Exposure",
                     "info":"",
                     "leftTurn":{
                         "key":"numpad_minus",
