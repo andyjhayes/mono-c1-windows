@@ -3,6 +3,9 @@
     "id": "com.phaseone.captureone",
     "exe": ["captureone.exe"],
     "category": ["photo"],
+    "help": {
+        "url": "https://github.com/andyjhayes/mono-c1-windows/blob/main/README.md"
+    },
     "bundle": [
         "com.captureone.captureone14",
         "com.captureone.captureone13",
