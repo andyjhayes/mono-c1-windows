@@ -49,4 +49,4 @@ This is purely a homebrewed set of Monogram presets for Capture One. A few thing
 - It isn't developed or endorsed by either company. 
 - It's provided with no warranty and it may not work on your system.
 - Future Capture One or Monogram updates might break it.
-- It's licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a>. Pull requests and issues are welcome :)
+- It's licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>. Pull requests and issues are welcome :)
