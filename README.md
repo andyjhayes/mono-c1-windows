@@ -32,7 +32,7 @@ Recommended: 240px square .png
 1. In Monogram Creator, go to File > Preferences > Integrations.
 2. Hit the + button (lower right); this should open a file browser.
 3. Browse for your <code>mono-c1-windows</code> folder, then double-click it to look inside for the <code>captureone</code> folder.
-4. Select the <code>captureone</code> without opening it, then hit "Select Folder" (bottom right).
+4. Select the <code>captureone</code> folder without opening it, then hit "Select Folder" (bottom right).
 
 ---
 
