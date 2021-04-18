@@ -9,12 +9,6 @@ This is a collection of Monogram and Palette Gear module presets for Capture One
 - [Monogram Creative Console (recommended) or Palette Gear](https://monogramcc.com/)
 - [Capture One](https://captureone.com/) (Version 9.3 or later required, 21 recommended)
 
-### Known Limitations ###
-
-- No assignments available or possible for slider modules (inherent incompatibility)
-- No assignments available or possible for Orbiter disc (inherent incompatibility)
-- Some assignments may not work with non-QWERTY keyboards. This can be worked around by re-mapping the broken shortcuts in Monogram Creator and Capture One (Edit > Keyboard Shortcuts)
-
 ---
 
 ## Setup Instructions ##
@@ -50,3 +44,9 @@ This is purely a homebrewed set of Monogram presets for Capture One. A few thing
 - It's provided with no warranty and it may not work on your system.
 - Future Capture One or Monogram updates might break it.
 - It's licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>. Pull requests and issues are welcome :)
+
+### Known Limitations ###
+
+- No assignments available or possible for slider modules (inherent incompatibility)
+- No assignments available or possible for Orbiter disc (inherent incompatibility)
+- Some assignments may not work with non-QWERTY keyboards. This can be worked around by re-mapping the broken shortcuts in Monogram Creator and Capture One (Edit > Keyboard Shortcuts)
