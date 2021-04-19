@@ -48,5 +48,5 @@ This is purely a homebrewed set of Monogram presets for Capture One. A few thing
 ### Known Limitations ###
 
 - No assignments available or possible for slider modules (inherent incompatibility)
-- No assignments available or possible for Orbiter disc (inherent incompatibility)
+- No assignments available or possible for Orbiter inner disc (inherent incompatibility)
 - Some assignments may not work with non-QWERTY keyboards. This can be worked around by re-mapping the broken shortcuts in Monogram Creator and Capture One (Edit > Keyboard Shortcuts)
