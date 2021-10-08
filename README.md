@@ -21,12 +21,6 @@ This is a collection of Monogram and Palette Gear module presets for Capture One
 4. Move <code>Monogram EN-US.xml</code> to inside the CustomCommands folder.
 5. Restart Capture One, then go to Edit > Keyboard Shortcuts and choose "Monogram EN-US" keymap.
 
-### Optional: add icon ###
-
-I don't have copyright to distribute a Capture One icon. To add one, simply add an image titled <code>icon.png</code> inside the <code>captureone</code> folder. This icon will show up in Creator and also on the Monogram core screen.
-
-Recommended: 240px square .png
-
 ### Add integration bundle to Monogram Creator ###
 
 1. In Monogram Creator, go to File > Preferences > Integrations.
