@@ -7,6 +7,7 @@
         "url": "https://github.com/andyjhayes/mono-c1-windows/blob/main/README.md"
     },
     "bundle": [
+        "com.captureone.captureone15",
         "com.captureone.captureone14",
         "com.captureone.captureone13",
         "com.phaseone.captureone13",
