@@ -1909,7 +1909,7 @@
     "orbiter": [
         {
             "name": "Adjust Any Value",
-            "info": "Hover over any slider or numeric value with your cursor, then turn to adjust incrementally.\n\nRequires the following preference in Ver. 20:\nPreferences > General > Tool Tabs > Select \"Scroll wheel changes slider value\"",
+            "info": "Hover over any slider or numeric value with your cursor, then turn to adjust incrementally.\n\nRequires the following preference in Capture One 20 or later:\nPreferences > General > Tool Tabs > Select \"Scroll wheel changes slider value\"",
             "turn": {
                 "scroll": "vertical",
                 "step": 1,
