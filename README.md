@@ -7,7 +7,7 @@ This is a collection of Monogram and Palette Gear module presets for Capture One
 - Windows 10 PC
 - [Monogram Creator](https://monogramcc.com/download/)
 - [Monogram Creative Console (recommended) or Palette Gear](https://monogramcc.com/)
-- [Capture One](https://captureone.com/) (Version 9.3 or later required, 21 recommended)
+- [Capture One](https://captureone.com/) (Version 9.3 or later required, 21 or later recommended)
 
 ---
 
